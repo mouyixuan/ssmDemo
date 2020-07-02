@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.windyrjc.security:windy-security-web:0.0.2.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/windyrjc/security/windy-security-web/0.0.2.6-SNAPSHOT/windy-security-web-0.0.2.6-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/windyrjc/security/windy-security-web/0.0.2.6-SNAPSHOT/windy-security-web-0.0.2.6-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/windyrjc/security/windy-security-web/0.0.2.6-SNAPSHOT/windy-security-web-0.0.2.6-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

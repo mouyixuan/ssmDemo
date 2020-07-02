@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.windyrjc.security:windy-security-core:0.0.2.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/windyrjc/security/windy-security-core/0.0.2.6-SNAPSHOT/windy-security-core-0.0.2.6-20191126.024036-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/windyrjc/security/windy-security-core/0.0.2.6-SNAPSHOT/windy-security-core-0.0.2.6-20191126.024036-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/windyrjc/security/windy-security-core/0.0.2.6-SNAPSHOT/windy-security-core-0.0.2.6-20191126.024036-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
