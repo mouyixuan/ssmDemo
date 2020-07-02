@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.io.Serializable;
+
 /**
  * @author ：牟神箭
  * @date ：Created in 2020/7/2 7:33
@@ -20,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/user")
 @Api("管理员接口")
-public class UserController {
+public class UserController implements Serializable {
     @Autowired
     private UserService employeeService;
 

@@ -26,7 +26,7 @@ public class MyExceptionHandler {
     @ResponseStatus(HttpStatus.ACCEPTED)
     @ExceptionHandler(MyException.class)
     public Response handleException(Exception e){
-//        log.error(e.getMessage());
+        log.error(e.getMessage());
         Response response = Response.fail(e.getMessage());
         return response;
     }
@@ -35,7 +35,7 @@ public class MyExceptionHandler {
     @ResponseStatus(HttpStatus.ACCEPTED)
     @ResponseBody
     public Response exceptionHandler(HttpServletRequest request, Exception exception) {
-//        log.error(exception.getMessage());
+        log.error(exception.getMessage());
         return Response.fail("服务器忙碌");
     }
 }
