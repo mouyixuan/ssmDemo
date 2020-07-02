@@ -6,27 +6,24 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f52fd1-86b6-4cbe-b694-abc689601536" name="Default Changelist" comment="第一次提交：SSM初步整合">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uppower/dao/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uppower/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c2f52fd1-86b6-4cbe-b694-abc689601536" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_rc4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uppower/service/sendsms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dbconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uppower/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uppower/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/domain/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uppower/domain/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/exception/MyExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uppower/exception/MyExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uppower/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uppower/controller/EmployeeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uppower/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uppower/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uppower/domain/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uppower/exception/MyExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uppower/exception/MyExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/controller/EmployeeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/domain/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/exception/MyExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/com/uppower/exception/MyExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ssm/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/util/BeanUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uppower/util/Ignore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uppower/util/BeanUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uppower/util/Ignore.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,11 +105,25 @@
       <recent name="com.uppower.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\ssm\src\main\resources" />
       <recent name="D:\Java\ssm\src\main\webapp" />
       <recent name="D:\Java\ssm\src\main\java\com\uppower" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.sendsms">
+    <configuration name="sendsms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uppower.service.sendsms" />
+      <module name="ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uppower.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -185,6 +196,15 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.27" />
+      <item itemvalue="Application.sendsms" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sendsms" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -218,7 +238,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593619211837</updated>
-      <workItem from="1593619214626" duration="21123000" />
+      <workItem from="1593619214626" duration="27219000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交：SSM初步整合">
       <created>1593648705077</created>
@@ -248,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593649592619</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第二次提交：带有字段校验的员工CRUD">
+      <created>1593664860004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593664860004</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +287,8 @@
       <path value="$PROJECT_DIR$/ssm" />
     </ignored-roots>
     <MESSAGE value="第一次提交：SSM初步整合" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交：SSM初步整合" />
+    <MESSAGE value="第二次提交：带有字段校验的员工CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交：带有字段校验的员工CRUD" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1593651268447">
@@ -279,10 +307,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593645419449" />
-    <state x="246" y="5" key="CommitChangelistDialog2" timestamp="1593651119040">
+    <state x="246" y="5" key="CommitChangelistDialog2" timestamp="1593664857057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="246" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593651119040" />
+    <state x="246" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593664857057" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1593651162012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -295,54 +323,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="644" y="303" width="272" height="290" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1593649586518" />
-    <state width="1024" height="245" key="GridCell.Tab.0.bottom" timestamp="1593664758797">
+    <state width="1493" height="129" key="GridCell.Tab.0.bottom" timestamp="1593681279440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.0.center" timestamp="1593664758797">
+    <state width="1493" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593681279440" />
+    <state width="1493" height="129" key="GridCell.Tab.0.center" timestamp="1593681279440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.0.left" timestamp="1593664758797">
+    <state width="1493" height="129" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593681279440" />
+    <state width="1493" height="129" key="GridCell.Tab.0.left" timestamp="1593681279440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.0.right" timestamp="1593664758797">
+    <state width="1493" height="129" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593681279440" />
+    <state width="1493" height="129" key="GridCell.Tab.0.right" timestamp="1593681279440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.1.bottom" timestamp="1593664758797">
+    <state width="1493" height="129" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593681279440" />
+    <state width="1024" height="245" key="GridCell.Tab.1.bottom" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.1.center" timestamp="1593664758797">
+    <state width="1024" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.1.center" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.1.left" timestamp="1593664758797">
+    <state width="1024" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.1.left" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.1.right" timestamp="1593664758797">
+    <state width="1024" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.1.right" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.2.bottom" timestamp="1593664758798">
+    <state width="1024" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.2.bottom" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593664758798" />
-    <state width="1024" height="245" key="GridCell.Tab.2.center" timestamp="1593664758797">
+    <state width="1024" height="245" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.2.center" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.2.left" timestamp="1593664758797">
+    <state width="1024" height="245" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.2.left" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1593664758797" />
-    <state width="1024" height="245" key="GridCell.Tab.2.right" timestamp="1593664758798">
+    <state width="1024" height="245" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
+    <state width="1024" height="245" key="GridCell.Tab.2.right" timestamp="1593668565271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1024" height="245" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1593664758798" />
+    <state width="1024" height="245" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1593668565271" />
     <state width="1024" height="666" key="GridCell.Tab.3.bottom" timestamp="1593659886459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -367,10 +395,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593650973974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593651719959">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593665483564">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593651719959" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593665483564" />
     <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593649053583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
